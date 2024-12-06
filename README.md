@@ -1,6 +1,6 @@
 #### 1. Data labeling via Electron(VPN이 되는 환경)
 
-1-1) 라벨링 dcm 파일, single 프레임은 LAO_file_paths.xlsx 참고
+1-1) 라벨링 dcm 파일, single 프레임은 Sharpoint의 엑셀파일 참고 (eg. CoroCAT\LAO_file_paths.xlsx)
 
 #### 2. labeling 좌표 추출
 
