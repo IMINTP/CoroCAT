@@ -1,5 +1,7 @@
 #### 1. Data labeling via Electron(VPN이 되는 환경)
 
+1-1) 라벨링 dcm 파일, single 프레임은 LAO_file_paths.xlsx 참고
+
 #### 2. labeling 좌표 추출
 
 2-1) GPU 서버에서 mongo.py를 Local 컴퓨터로 옮긴다. VS code로 drag & drop 가능.
